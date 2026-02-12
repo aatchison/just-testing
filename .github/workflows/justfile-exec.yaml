@@ -18,8 +18,14 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v3
 
-      - name: Run justfile-exec
+      - name: Install justfile
         uses: taiki-e/install-action@just
         with:
           justfile: ./justfile
           args: all
+
+      - name: Run justfile commands
+        run: |
+          just --list
+          just all
+      
