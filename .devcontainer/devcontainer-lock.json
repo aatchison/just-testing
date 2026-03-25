@@ -1,0 +1,19 @@
+{
+  "features": {
+    "ghcr.io/jsburckhardt/devcontainer-features/just:1": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/jsburckhardt/devcontainer-features/just@sha256:5c90013b36669270be21c69e7d8e5b6148b4b0b34fca9e104a599edf0d7c11af",
+      "integrity": "sha256:5c90013b36669270be21c69e7d8e5b6148b4b0b34fca9e104a599edf0d7c11af"
+    },
+    "ghcr.io/kreemer/features/stow:1": {
+      "version": "1.1.0",
+      "resolved": "ghcr.io/kreemer/features/stow@sha256:b3d908c1767a6468ac776071b79a72d65ffeaaa14185c128c776f58b2047a205",
+      "integrity": "sha256:b3d908c1767a6468ac776071b79a72d65ffeaaa14185c128c776f58b2047a205"
+    },
+    "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt@sha256:bd1f7a64fc308f256a01c61946db094e0c92c4fd9d32f42b7ea8b661788d879d",
+      "integrity": "sha256:bd1f7a64fc308f256a01c61946db094e0c92c4fd9d32f42b7ea8b661788d879d"
+    }
+  }
+}
