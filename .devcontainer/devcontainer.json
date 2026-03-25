@@ -9,7 +9,7 @@
       "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {},
       "ghcr.io/kreemer/features/stow:1": {},
 	},
-    "dotfiles.repository": "https://github.com/aatchison/just-testing.git",
+    "dotfiles.repository": "https://github.com/aatchison/dotfiles.git",
     "dotfiles.installCommand": "/home/vscode/install.sh"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
