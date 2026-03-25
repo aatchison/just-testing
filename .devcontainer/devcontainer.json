@@ -6,11 +6,11 @@
 	"image": "mcr.microsoft.com/devcontainers/base:noble",
 	"features": {
 	  "ghcr.io/jsburckhardt/devcontainer-features/just:1": {},
-      "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {},
-      "ghcr.io/kreemer/features/stow:1": {},
+          "ghcr.io/marcosbolanos/devcontainer-features/neovim-prebuilt:1": {},
+          "ghcr.io/kreemer/features/stow:1": {}
 	},
-    "dotfiles.repository": "https://github.com/aatchison/dotfiles.git",
-    "dotfiles.installCommand": "/home/vscode/install.sh"
+        "dotfiles.repository": "https://github.com/aatchison/dotfiles.git",
+        "dotfiles.installCommand": "~/dotfiles/install.sh"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
